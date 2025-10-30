@@ -1,0 +1,16 @@
+C:\Users\alexc\source\repos\p5\p5\bin\Debug\net8.0-windows\p5.exe
+C:\Users\alexc\source\repos\p5\p5\bin\Debug\net8.0-windows\p5.deps.json
+C:\Users\alexc\source\repos\p5\p5\bin\Debug\net8.0-windows\p5.runtimeconfig.json
+C:\Users\alexc\source\repos\p5\p5\bin\Debug\net8.0-windows\p5.dll
+C:\Users\alexc\source\repos\p5\p5\bin\Debug\net8.0-windows\p5.pdb
+C:\Users\alexc\source\repos\p5\p5\obj\Debug\net8.0-windows\p5.Form1.resources
+C:\Users\alexc\source\repos\p5\p5\obj\Debug\net8.0-windows\p5.csproj.GenerateResource.cache
+C:\Users\alexc\source\repos\p5\p5\obj\Debug\net8.0-windows\p5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\source\repos\p5\p5\obj\Debug\net8.0-windows\p5.AssemblyInfoInputs.cache
+C:\Users\alexc\source\repos\p5\p5\obj\Debug\net8.0-windows\p5.AssemblyInfo.cs
+C:\Users\alexc\source\repos\p5\p5\obj\Debug\net8.0-windows\p5.csproj.CoreCompileInputs.cache
+C:\Users\alexc\source\repos\p5\p5\obj\Debug\net8.0-windows\p5.dll
+C:\Users\alexc\source\repos\p5\p5\obj\Debug\net8.0-windows\refint\p5.dll
+C:\Users\alexc\source\repos\p5\p5\obj\Debug\net8.0-windows\p5.pdb
+C:\Users\alexc\source\repos\p5\p5\obj\Debug\net8.0-windows\p5.genruntimeconfig.cache
+C:\Users\alexc\source\repos\p5\p5\obj\Debug\net8.0-windows\ref\p5.dll
