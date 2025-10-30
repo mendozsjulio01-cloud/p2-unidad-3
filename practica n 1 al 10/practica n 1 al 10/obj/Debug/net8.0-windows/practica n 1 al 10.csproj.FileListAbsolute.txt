@@ -1,0 +1,16 @@
+C:\Users\alexc\source\repos\practica n 1 al 10\practica n 1 al 10\bin\Debug\net8.0-windows\practica n 1 al 10.exe
+C:\Users\alexc\source\repos\practica n 1 al 10\practica n 1 al 10\bin\Debug\net8.0-windows\practica n 1 al 10.deps.json
+C:\Users\alexc\source\repos\practica n 1 al 10\practica n 1 al 10\bin\Debug\net8.0-windows\practica n 1 al 10.runtimeconfig.json
+C:\Users\alexc\source\repos\practica n 1 al 10\practica n 1 al 10\bin\Debug\net8.0-windows\practica n 1 al 10.dll
+C:\Users\alexc\source\repos\practica n 1 al 10\practica n 1 al 10\bin\Debug\net8.0-windows\practica n 1 al 10.pdb
+C:\Users\alexc\source\repos\practica n 1 al 10\practica n 1 al 10\obj\Debug\net8.0-windows\practica_n_1_al_10.Form1.resources
+C:\Users\alexc\source\repos\practica n 1 al 10\practica n 1 al 10\obj\Debug\net8.0-windows\practica n 1 al 10.csproj.GenerateResource.cache
+C:\Users\alexc\source\repos\practica n 1 al 10\practica n 1 al 10\obj\Debug\net8.0-windows\practica n 1 al 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\source\repos\practica n 1 al 10\practica n 1 al 10\obj\Debug\net8.0-windows\practica n 1 al 10.AssemblyInfoInputs.cache
+C:\Users\alexc\source\repos\practica n 1 al 10\practica n 1 al 10\obj\Debug\net8.0-windows\practica n 1 al 10.AssemblyInfo.cs
+C:\Users\alexc\source\repos\practica n 1 al 10\practica n 1 al 10\obj\Debug\net8.0-windows\practica n 1 al 10.csproj.CoreCompileInputs.cache
+C:\Users\alexc\source\repos\practica n 1 al 10\practica n 1 al 10\obj\Debug\net8.0-windows\practica n 1 al 10.dll
+C:\Users\alexc\source\repos\practica n 1 al 10\practica n 1 al 10\obj\Debug\net8.0-windows\refint\practica n 1 al 10.dll
+C:\Users\alexc\source\repos\practica n 1 al 10\practica n 1 al 10\obj\Debug\net8.0-windows\practica n 1 al 10.pdb
+C:\Users\alexc\source\repos\practica n 1 al 10\practica n 1 al 10\obj\Debug\net8.0-windows\practica n 1 al 10.genruntimeconfig.cache
+C:\Users\alexc\source\repos\practica n 1 al 10\practica n 1 al 10\obj\Debug\net8.0-windows\ref\practica n 1 al 10.dll
