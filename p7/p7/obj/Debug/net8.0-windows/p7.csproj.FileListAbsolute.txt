@@ -1,0 +1,16 @@
+C:\Users\alexc\source\repos\p7\p7\bin\Debug\net8.0-windows\p7.exe
+C:\Users\alexc\source\repos\p7\p7\bin\Debug\net8.0-windows\p7.deps.json
+C:\Users\alexc\source\repos\p7\p7\bin\Debug\net8.0-windows\p7.runtimeconfig.json
+C:\Users\alexc\source\repos\p7\p7\bin\Debug\net8.0-windows\p7.dll
+C:\Users\alexc\source\repos\p7\p7\bin\Debug\net8.0-windows\p7.pdb
+C:\Users\alexc\source\repos\p7\p7\obj\Debug\net8.0-windows\p7.Form1.resources
+C:\Users\alexc\source\repos\p7\p7\obj\Debug\net8.0-windows\p7.csproj.GenerateResource.cache
+C:\Users\alexc\source\repos\p7\p7\obj\Debug\net8.0-windows\p7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\source\repos\p7\p7\obj\Debug\net8.0-windows\p7.AssemblyInfoInputs.cache
+C:\Users\alexc\source\repos\p7\p7\obj\Debug\net8.0-windows\p7.AssemblyInfo.cs
+C:\Users\alexc\source\repos\p7\p7\obj\Debug\net8.0-windows\p7.csproj.CoreCompileInputs.cache
+C:\Users\alexc\source\repos\p7\p7\obj\Debug\net8.0-windows\p7.dll
+C:\Users\alexc\source\repos\p7\p7\obj\Debug\net8.0-windows\refint\p7.dll
+C:\Users\alexc\source\repos\p7\p7\obj\Debug\net8.0-windows\p7.pdb
+C:\Users\alexc\source\repos\p7\p7\obj\Debug\net8.0-windows\p7.genruntimeconfig.cache
+C:\Users\alexc\source\repos\p7\p7\obj\Debug\net8.0-windows\ref\p7.dll
